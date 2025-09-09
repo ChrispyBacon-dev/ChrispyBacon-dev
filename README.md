@@ -33,7 +33,6 @@ Want to automate your secure service exposures?
 
 - **baconflip:** LiteLLM-powered Discord Bot—fun with personality and AI.
 - **IaaS:** Concepts and tools for infrastructure as a service mostly thoughts and concepts
-- **GLaDOS-Terminal:** Chatbot inspired by Portal’s iconic AI, retro style.
 
 ***
 
