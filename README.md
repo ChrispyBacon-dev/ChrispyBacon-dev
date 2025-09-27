@@ -6,7 +6,7 @@ I’m a tech enthusiast from Switzerland with 20+ years of experience building a
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,go,python,cloudflare,linux,bash,git,github,grafana,prometheus,redis,sqlite" />
+    <img src="https://skillicons.dev/icons?i=docker,go,python,cloudflare,linux,bash,git,github,grafana,prometheus,redis,sqlite,swift,apple,powershell,discord,html,obsidian,raspberrypi,ubuntu,vscode,windows,openai" />
   </a>
 
 ---
