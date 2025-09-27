@@ -20,8 +20,8 @@ I’m a tech enthusiast from Switzerland with 20+ years building and breaking th
 - **Dynamic Event Handling:** DockFlare instantly reacts to Docker events and syncs with your Cloudflare account.
 - **State Reconciliation:** Persistent state, graceful cleanup, and robust migration flows—designed for reliability.
 - **Massive Community Adoption:**
-    - ⭐ 1,600+ GitHub stars
-    - 55,000+ Docker pulls
+    - ⭐ 1,700+ GitHub stars
+    - 70,000+ Docker pulls
     - Used daily for modern homelab and multi-site deployments
 
 Want to automate your secure service exposures?
