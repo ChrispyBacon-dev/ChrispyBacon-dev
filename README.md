@@ -22,8 +22,8 @@ I’m a tech enthusiast from Switzerland with 20+ years of experience building a
 - **Centralized Web UI:** A single dashboard to visualize tunnels, manage policies, and monitor logs.
 - **Zero Trust Integration:** Secure services with per-service authentication and policy templates.
 - **Massive Community Adoption:**
-    - ⭐ 1,700+ GitHub stars
-    - 🐳 70,000+ Docker pulls
+    - ⭐ 1,800+ GitHub stars
+    - 🐳 85,000+ Docker pulls
     - Used daily in homelab and multi-site deployments.
 
 **→ [Get Started with the Quick Start Guide](https://dockflare.app/docs/quick-start-docker-compose)**
