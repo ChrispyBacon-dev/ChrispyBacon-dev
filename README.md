@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chris (ChrispyBacon-dev)
+# Hi, I'm Chris (ChrispyBacon-dev)
 
 > "The best way to predict the future is to create it."
 
