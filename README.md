@@ -21,19 +21,20 @@ I’m a tech enthusiast from Switzerland with 20+ years of experience building a
 - **Label-Driven Automation:** Configure ingress and Zero Trust rules directly in your Docker compose files.
 - **Centralized Web UI:** A single dashboard to visualize tunnels, manage policies, and monitor logs.
 - **Zero Trust Integration:** Secure services with per-service authentication and policy templates.
-- **Massive Community Adoption:**
-    - ⭐ 2,400+ GitHub stars
-    - 🐳 390,000+ Docker pulls
+- ** Community Adoption:**
+    - ⭐ 2,500+ GitHub stars
+    - 🐳 545,000+ Docker pulls
     - Used daily in homelab and multi-site deployments.
 
 **→ [Get Started with the Quick Start Guide](https://dockflare.app/docs/quick-start-docker-compose)**
 
 ---
 
-## Other Notable Projects
+## Other Projects
 
+- **[Kaine’s Compass](https://kaine.dataverse.icu):** An independent Elite Dangerous community tool for supporters of Nakato Kaine. Not affiliated with Frontier Developments.
 - **[baconflip](https://github.com/ChrispyBacon-dev/baconflip):** A personality-driven Discord bot powered by LiteLLM for engaging, AI-powered chat.
-- **[IaaS-Concepts](https://github.com/ChrispyBacon-dev/IaaS):** An exploration of concepts and tooling for building Infrastructure as a Service.
+
 
 ---
 
